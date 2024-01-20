@@ -1,0 +1,25 @@
+﻿header {
+    margin:auto;
+    padding:0 3%;
+}
+
+.navbar{
+    display:grid;
+    grid-template-columns:auto auto auto auto auto auto;
+}
+
+.nav_button {
+    padding: 1.25rem 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #FF004D;
+}
+
+.banner{
+    position:relative;
+    width:100%;
+    font-size:50px;
+    display:grid;
+    grid-template-columns:auto;
+    justify-content:center;
+}
